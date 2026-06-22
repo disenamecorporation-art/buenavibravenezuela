@@ -1,0 +1,6 @@
+{
+  "name": "Buena Vibra Venezuela",
+  "description": "Un club social y profesional que fusiona el crecimiento y la colaboración con la alegría de la cultura caribeña.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
