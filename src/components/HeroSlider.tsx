@@ -36,7 +36,7 @@ export default function HeroSlider({ onOpenContact }: { onOpenContact: () => voi
           initial={{ y: 20, opacity: 0 }}
           animate={{ y: 0, opacity: 1 }}
           transition={{ delay: 0.5, duration: 1 }}
-          className="text-4xl font-extralight text-white drop-shadow-[0_4px_6px_rgba(0,0,0,0.8)] tracking-[12px] uppercase mb-2"
+          className="text-4xl font-extralight text-white drop-shadow-[0_8px_12px_rgba(0,0,0,1)] tracking-[12px] uppercase mb-2"
         >
           Buena Vibra Venezuela
         </motion.h1>
